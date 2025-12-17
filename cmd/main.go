@@ -4,10 +4,10 @@ import (
 	"log"
 	"os"
 
-	"finish-six.sprint/internal/handlers"
-	"finish-six.sprint/internal/server"
-	"finish-six.sprint/internal/service"
-	"finish-six.sprint/pkg/morse"
+	"github.com/Ruginis-AV/finish-six.sprint/internal/handlers"
+	"github.com/Ruginis-AV/finish-six.sprint/internal/server"
+	"github.com/Ruginis-AV/finish-six.sprint/internal/service"
+	"github.com/Ruginis-AV/finish-six.sprint/pkg/morse"
 )
 
 func main() {
