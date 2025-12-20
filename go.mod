@@ -1,3 +1,3 @@
-module github.com/Yandex-Practicum/go1fl-sprint6-final
+module github.com/Ruginis-AV/finish-six.sprint
 
 go 1.24.0
